@@ -1,2 +1,2 @@
-### Maybe
-One day. A blog might live here.
+### Moved
+Active github account now [jamesbloomer](http://github.com/jamesbloomer).
